@@ -233,7 +233,7 @@ Application:<br/>
      Budget Essence<br/>
 
 is an initiative of:<br/>
-    Dylan Zaoui (above "the Seller") <br/>
-    Quai Malakoff 44000 NANTES <br/>
+    Dylan zaoui (above "the Seller") <br/>
+    Quai Malakoff 44000 Nantes <br/>
     Company n°: FR4782653678 <br/>
     E-mail: budgetessencecontact@gmail.com <br/>
