@@ -2,7 +2,6 @@
 
 Updated on 22/06/2021
 
-
 <center> <h1> I. GENERAL TERMS AND CONDITIONS OF USE </h1> </center>
 
 
@@ -33,10 +32,10 @@ We reserve the right to restrict access to the Platform or to interrupt its oper
 
  **2.b Content**<br/>
 
-Dylan Zaoui determines much of the content of the Platform and takes great care with the information on the Platform. We take all reasonable steps to keep our Platform as complete, accurate and up-to-date as possible, even when the information on the Platform is provided by third parties.
+The Seller determines much of the content of the Platform and takes great care with the information on the Platform. We take all reasonable steps to keep our Platform as complete, accurate and up-to-date as possible, even when the information on the Platform is provided by third parties.
 We reserve the right to modify, supplement or delete the Platform and its contents at any time without liability.
 
-Dylan Zaoui cannot offer an absolute guarantee regarding the quality of the information on the Platform. It is therefore possible that this information may not always be complete, accurate or up to date. Therefore, Dylan Zaoui shall not be liable for any direct or indirect damages that the User may suffer as a result of the information on the Platform.
+The Seller cannot offer an absolute guarantee regarding the quality of the information on the Platform. It is therefore possible that this information may not always be complete, accurate or up to date. Therefore, The Seller shall not be liable for any direct or indirect damages that the User may suffer as a result of the information on the Platform.
 
 If any content on the Platform is in violation of the law or the rights of third parties, or is otherwise unethical, we ask that you notify us as soon as possible by email so that we can take appropriate action.
 
@@ -98,7 +97,7 @@ The User is prohibited from introducing data on the Platform that would modify o
 
  **5. Protection of personal data**<br/>
 	
-The personal data provided by the User when visiting or using the Platform are collected and processed by Dylan Zaoui exclusively for internal purposes. The Seller assures its Users that it attaches the utmost importance to the protection of their privacy and their personal data.
+The personal data provided by the User when visiting or using the Platform are collected and processed by The Seller exclusively for internal purposes. The Seller assures its Users that it attaches the utmost importance to the protection of their privacy and their personal data.
 
 The seller undertakes to comply with the applicable legislation, namely the Law of 8 December 1992 on the protection of privacy with regard to the processing of personal data and the European Regulation of 27 April 2016 on the protection of individuals with regard to the processing of personal data and on the free movement of such data.
 
