@@ -2,10 +2,10 @@
 
 Updated on 15/06/2021
 
-**I. GENERAL TERMS AND CONDITIONS OF USE **1.
+**I. GENERAL TERMS AND CONDITIONS OF USE **
 
 
- **1. Scope of Application** **
+ **1. Scope of Application**
 
 These general terms of use (hereinafter the "GTC") apply to any visit or use of the platform and its information by an Internet user (hereinafter "User").
 
@@ -30,7 +30,7 @@ Therefore, we are not responsible for any damage that may result from possible m
 
 We reserve the right to restrict access to the Platform or to interrupt its operation at any time, without obligation to give prior notice.
 
- **2.b Content*
+ **2.b Content**
 
 Dylan Zaoui determines much of the content of the Platform and takes great care with the information on the Platform. We take all reasonable steps to keep our Platform as complete, accurate and up-to-date as possible, even when the information on the Platform is provided by third parties.
 We reserve the right to modify, supplement or delete the Platform and its contents at any time without liability.
@@ -116,7 +116,7 @@ The illegality or the total or partial invalidity of a provision of our TOS will
 **||. GENERAL TERMS AND CONDITIONS OF SALE**
 	
  
-**1. Scope of application** **
+**1. Scope of application**
 
 These general terms and conditions of sale (hereinafter "GTC") define the reciprocal rights and obligations in case of purchase of products on the Platform by a User (hereinafter "Customer").
 
