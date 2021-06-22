@@ -5,7 +5,7 @@ Updated on 15/06/2021
 **I. GENERAL TERMS AND CONDITIONS OF USE**
 
 
- **1. Scope of Application**
+ **1. Scope of Application**<br/>;
 
 These general terms of use (hereinafter the "GTC") apply to any visit or use of the platform and its information by an Internet user (hereinafter "User").
 
@@ -46,7 +46,7 @@ Any download from the Platform is always at the user's risk. The Seller shall no
 
 **2.c Services for Registered Users only**
 
-**2.c.1 Registration**
+**2.c.1 Registration**<br/>;
 Access to certain services is conditional upon registration by the User.
 
 Registration and access to the Platform's services are reserved exclusively for natural persons who are legally capable, having completed and validated the registration form available online on the Platform as well as the present GTC.
