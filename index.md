@@ -1,4 +1,4 @@
-<center> <h1>heading 1</h1> </center> **GENERAL TERMS AND CONDITIONS OF USE AND SALE**
+<center> <h1>**GENERAL TERMS AND CONDITIONS OF USE AND SALE**</h1> </center>
 
 
 
