@@ -114,7 +114,7 @@ In case of violation of the TOS by the User, the Seller reserves the right to ta
 The illegality or the total or partial invalidity of a provision of our TOS will have no impact on the validity and application of the other provisions. In such a case, we shall have the right to replace the valid provision of similar scope.
 
 
-</h1> </center> **||. GENERAL TERMS AND CONDITIONS OF SALE**<br/> </h1> </center>
+</h1> </center> ** ||. GENERAL TERMS AND CONDITIONS OF SALE** </h1> </center>
 	
  
 **1. Scope of application**<br/>
