@@ -1,4 +1,6 @@
-**GENERAL TERMS AND CONDITIONS OF USE AND SALE**
+<center> <h1>heading 1</h1> </center> **GENERAL TERMS AND CONDITIONS OF USE AND SALE**
+
+
 
 Updated on 15/06/2021
 
