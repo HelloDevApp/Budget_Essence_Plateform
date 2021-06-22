@@ -1,6 +1,6 @@
 <center> <h1> GENERAL TERMS AND CONDITIONS OF USE AND SALE </h1> </center>
 
-Updated on 15/06/2021
+Updated on 22/06/2021
 
 
 <center> <h1> I. GENERAL TERMS AND CONDITIONS OF USE </h1> </center>
