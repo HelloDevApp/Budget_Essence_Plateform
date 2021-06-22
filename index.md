@@ -1,10 +1,9 @@
-<center> <h1>**GENERAL TERMS AND CONDITIONS OF USE AND SALE**</h1> </center>
-
-
+<center> <h1> **GENERAL TERMS AND CONDITIONS OF USE AND SALE** </h1> </center>
 
 Updated on 15/06/2021
 
-**I. GENERAL TERMS AND CONDITIONS OF USE**
+
+<center> <h1> **I. GENERAL TERMS AND CONDITIONS OF USE** </h1> </center>
 
 
  **1. Scope of Application**<br/>
@@ -115,7 +114,7 @@ In case of violation of the TOS by the User, the Seller reserves the right to ta
 The illegality or the total or partial invalidity of a provision of our TOS will have no impact on the validity and application of the other provisions. In such a case, we shall have the right to replace the valid provision of similar scope.
 
 
-**||. GENERAL TERMS AND CONDITIONS OF SALE**<br/>
+</h1> </center> **||. GENERAL TERMS AND CONDITIONS OF SALE**<br/> </h1> </center>
 	
  
 **1. Scope of application**<br/>
