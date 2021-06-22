@@ -180,26 +180,26 @@ In case of refusal of authorization of payment by credit card from accredited or
 
 This section applies in addition to the other provisions of the Agreement to any subscription that Customer takes out via the Platform.
 
-The subscription gives the right to: <br/>
+The subscription gives the right to: 
 
-		Option n° 1 : Premium subscription for one month renewable at 1,49€.<br/>
-		Option n° 2 : Renewable premium subscription for 6 months at 5,99€.<br/>
-		Option n° 3 : Premium subscription renewable for 1 year at 9,99€.<br/>
+		Option n° 1 : Premium subscription for one month renewable at 1,49€.
+		Option n° 2 : Renewable premium subscription for 6 months at 5,99€.
+		Option n° 3 : Premium subscription renewable for 1 year at 9,99€.
 
 All premium subscription options allow you to have access to all the features of the application during the duration of the chosen option. 
 
 You can cancel your subscription at any time from your device settings:<br/> 
 
-	1. Open the Settings application.<br/>
-	2. Touch your name.<br/>
-	3. Touch Subscriptions.<br/>
-	4. Touch the application subscription.<br/>
-	5. Touch Cancel Subscription.<br/>
+	1. Open the Settings application.
+	2. Touch your name.
+	3. Touch Subscriptions.
+	4. Touch the application subscription.
+	5. Touch Cancel Subscription.
 
-The Customer will be charged as follows: <br/>
+The Customer will be charged as follows: 
 
-	Variable depending on the subscription option chosen by the Customer <br/>
-	All subscriptions are for a period of 1 month, 6 months or 1 year depending on the subscription option chosen by the Customer.<br/>
+	Variable depending on the subscription option chosen by the Customer.
+	All subscriptions are for a period of 1 month, 6 months or 1 year depending on the subscription option chosen by the Customer.
 
 
  **7. Evidence**<br/>
