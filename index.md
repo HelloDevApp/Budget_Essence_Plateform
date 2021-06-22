@@ -5,7 +5,7 @@ Updated on 15/06/2021
 **I. GENERAL TERMS AND CONDITIONS OF USE**
 
 
- **1. Scope of Application**<br/>;
+ **1. Scope of Application**<br/>
 
 These general terms of use (hereinafter the "GTC") apply to any visit or use of the platform and its information by an Internet user (hereinafter "User").
 
@@ -17,9 +17,9 @@ We reserve the right to change our TOU at any time, without prior notice, but we
 
 
 
- **2. Platform**
+ **2. Platform**<br/>
 
- **2.a Access and navigation**
+ **2.a Access and navigation**<br/>
 
 Access to and use of the Platform is restricted to persons who are at least 13 years old. Each User declares on his or her honor to be of the required age. We reserve the right to request proof of age by any means.
 
@@ -30,7 +30,7 @@ Therefore, we are not responsible for any damage that may result from possible m
 
 We reserve the right to restrict access to the Platform or to interrupt its operation at any time, without obligation to give prior notice.
 
- **2.b Content**
+ **2.b Content**<br/>
 
 Dylan Zaoui determines much of the content of the Platform and takes great care with the information on the Platform. We take all reasonable steps to keep our Platform as complete, accurate and up-to-date as possible, even when the information on the Platform is provided by third parties.
 We reserve the right to modify, supplement or delete the Platform and its contents at any time without liability.
@@ -44,9 +44,9 @@ Any download from the Platform is always at the user's risk. The Seller shall no
 
 
 
-**2.c Services for Registered Users only**
+**2.c Services for Registered Users only**<br/>
 
-**2.c.1 Registration**<br/>;
+**2.c.1 Registration**<br/>
 Access to certain services is conditional upon registration by the User.
 
 Registration and access to the Platform's services are reserved exclusively for natural persons who are legally capable, having completed and validated the registration form available online on the Platform as well as the present GTC.
@@ -65,10 +65,10 @@ The login is definitive, but the password can be changed online by the user in h
 
 The seller reserves the right to refuse a request for registration to the services of the Platform in case of non-compliance by the user with the GTU.
 
-**2.c.2 Unsubscribing**
+**2.c.2 Unsubscribing**<br/>
 The regularly registered User may at any time request to unsubscribe by going to the dedicated page in his Personal Space. Any unsubscription from the platform will be effective as soon as possible after the User has completed the form provided for this purpose.
 
-**2.d Content published by the user** 
+**2.d Content published by the user**<br/> 
 The User undertakes to respect the laws in force through each of his publications on the Platform. He will be particularly attentive to the interests of third parties, to content of an offensive nature as well as to content likely to be contrary to public order or morality.
 The user remains responsible for any content published on the Platform.
 
@@ -77,14 +77,14 @@ The Platform may exercise moderation on any publication and refuse the posting o
 By publishing on the Platform, the User grants the seller, free of charge and on a non-exclusive basis, the right to represent, reproduce, adapt, modify, distribute and disseminate, directly or indirectly, the published content on any medium and throughout the world.
 
 
- **3. Links to other websites**
+ **3. Links to other websites**<br/>
 
 The Platform may contain links or hyperlinks to external websites. Such links do not automatically imply any relationship between the Seller and the external website or even an implied agreement with the content of such external websites.
 
 The seller has no control over external websites. We are therefore not responsible for the safe and proper functioning of the hyperlinks and their final destination. As soon as the User clicks on the hyperlink, he leaves the Platform. Therefore, we cannot be held responsible for any subsequent damage.
 
 
- **4. Intellectual property**
+ **4. Intellectual property**<br/>
 
 The structuring of the Platform, but also the texts, graphics, images, photographs, sounds, videos, databases, computer applications, etc... that make it up or that are accessible via the Platform are the property of the editor and are protected as such by the laws in force under the title of intellectual property.
 
@@ -95,7 +95,7 @@ The User of the Platform is granted a limited right of access, use and display o
 The User is prohibited from introducing data on the Platform that would modify or be likely to modify its content or appearance. 
 
 
- **5. Protection of personal data**
+ **5. Protection of personal data**<br/>
 	
 The personal data provided by the User when visiting or using the Platform are collected and processed by Dylan Zaoui exclusively for internal purposes. The Seller assures its Users that it attaches the utmost importance to the protection of their privacy and their personal data.
 
@@ -104,7 +104,7 @@ The seller undertakes to comply with the applicable legislation, namely the Law 
 The User's personal data are processed in accordance with the Privacy Policy available on the Platform.
 
 
- **6. General Provisions**
+ **6. General Provisions**<br/>
 
 The Seller reserves the right to modify, extend, delete, limit, or discontinue the Platform and the associated services at any time, without prior notice, and without incurring any liability.
 
@@ -113,10 +113,10 @@ In case of violation of the TOS by the User, the Seller reserves the right to ta
 The illegality or the total or partial invalidity of a provision of our TOS will have no impact on the validity and application of the other provisions. In such a case, we shall have the right to replace the valid provision of similar scope.
 
 
-**||. GENERAL TERMS AND CONDITIONS OF SALE**
+**||. GENERAL TERMS AND CONDITIONS OF SALE**<br/>
 	
  
-**1. Scope of application**
+**1. Scope of application**<br/>
 
 These general terms and conditions of sale (hereinafter "GTC") define the reciprocal rights and obligations in case of purchase of products on the Platform by a User (hereinafter "Customer").
 
@@ -128,7 +128,7 @@ The seller reserves the right to modify the GTC from time to time. The modificat
 
  
 
- **2. Online shop**
+ **2. Online shop**<br/>
 
 Through the Platform, the seller provides the customer with an online store presenting the products or services sold, without the photographs having a contractual value.
 
@@ -140,7 +140,7 @@ The products and services are offered within the limits of their availability.
 Prices and taxes are specified in the online store.
 
 
- **3. Prices** 
+ **3. Prices** <br/>
 
 The seller reserves the right to modify its prices at any time by publishing them online.
 
@@ -151,7 +151,7 @@ The prices are indicated in euros and do not take into account the possible deli
 The total amount of the order is displayed including all taxes.
 
 
- **4. On-line order**
+ **4. On-line order**<br/>
 
 The Customer has the possibility to fill in an order form online, by means of an electronic form. By filling in the electronic form, the Customer accepts the price and the description of the products or services.
 
@@ -162,7 +162,7 @@ The customer must provide an e-mail address.
 The seller reserves the right to block the customer's order in case of non-payment or any other problem on the customer's account until the problem is resolved.
 
 
- **5. Confirmation and payment of the order**
+ **5. Confirmation and payment of the order**<br/>
 
 The seller remains the owner of the ordered items until the full payment of the order is received.
 
@@ -176,63 +176,63 @@ The Vendor has set up a procedure for verifying payments and means of payment in
 In case of refusal of authorization of payment by credit card from accredited organizations or in case of non-payment, the Seller reserves the right to suspend or cancel a payment.
 
 
- **6. Subscriptions** 
+ **6. Subscriptions**<br/>
 
 This section applies in addition to the other provisions of the Agreement to any subscription that Customer takes out via the Platform.
 
-The subscription gives the right to: 
+The subscription gives the right to: <br/>
 
-		Option n° 1 : Premium subscription for one month renewable at 1,49€.
-		Option n° 2 : Renewable premium subscription for 6 months at 5,99€.
-		Option n° 3 : Premium subscription renewable for 1 year at 9,99€.
+		Option n° 1 : Premium subscription for one month renewable at 1,49€.<br/>
+		Option n° 2 : Renewable premium subscription for 6 months at 5,99€.<br/>
+		Option n° 3 : Premium subscription renewable for 1 year at 9,99€.<br/>
 
 All premium subscription options allow you to have access to all the features of the application during the duration of the chosen option. 
 
-You can cancel your subscription at any time from your device settings: 
+You can cancel your subscription at any time from your device settings:<br/> 
 
-	1. Open the Settings application.
-	2. Touch your name.
-	3. Touch Subscriptions.
-	4. Touch the application subscription.
-	5. Touch Cancel Subscription.
+	1. Open the Settings application.<br/>
+	2. Touch your name.<br/>
+	3. Touch Subscriptions.<br/>
+	4. Touch the application subscription.<br/>
+	5. Touch Cancel Subscription.<br/>
 
-The Customer will be charged as follows: 
+The Customer will be charged as follows: <br/>
 
-	Variable depending on the subscription option chosen by the Customer 
-	All subscriptions are for a period of 1 month, 6 months or 1 year depending on the subscription option chosen by the Customer.
+	Variable depending on the subscription option chosen by the Customer <br/>
+	All subscriptions are for a period of 1 month, 6 months or 1 year depending on the subscription option chosen by the Customer.<br/>
 
 
- **7. Evidence**
+ **7. Evidence**<br/>
 
 The data and payments made between the Customer and the Seller can be proven thanks to the computerized registers, kept in the computer systems of the Seller in reasonable security conditions. The order forms and invoices are archived on a reliable and durable medium considered, in particular, as a means of proof.
 
 
- **8. Warranties**
+ **8. Warranties**<br/>
 
 The Seller guarantees the conformity of the products or services to the contract in accordance with the law in force at the time of its conclusion.
 
- **9. Right of Withdrawal**  
+ **9. Right of Withdrawal**<br/> 
 
 If the Customer is a consumer, he hereby waives his right of withdrawal in order to be supplied as soon as possible after the conclusion of the contract.
 
 
-  **10.  Independence of the clauses**
+  **10.  Independence of the clauses**<br/>
 
 The illegality or invalidity of any provision of these GTC shall not affect the validity and enforceability of the remaining provisions. Seller reserves the right to replace the illegal or invalid provision with another provision that is variable and similar in scope.
 
 
-  **11. Governing Law and Jurisdiction**
+  **11. Governing Law and Jurisdiction**<br/>
 
-These GTC are governed by Belgian law.
+These GTC are governed by Belgian law.<br/>
 
-In the event of a dispute and in the absence of an amicable agreement, the dispute shall be brought before the courts of the judicial district of the Seller's registered office.
+In the event of a dispute and in the absence of an amicable agreement, the dispute shall be brought before the courts of the judicial district of the Seller's registered office.<br/>
 
 
-Application:
-     Budget Essence
+Application:<br/>
+     Budget Essence<br/>
 
-is an initiative of:
-    Dylan Zaoui (above "the Seller")
-    Quai Malakoff 44000 NANTES
-    Company n°: FR4782653678
-    E-mail: budgetessencecontact@gmail.com 
+is an initiative of:<br/>
+    Dylan Zaoui (above "the Seller") <br/>
+    Quai Malakoff 44000 NANTES <br/>
+    Company n°: FR4782653678 <br/>
+    E-mail: budgetessencecontact@gmail.com <br/>
